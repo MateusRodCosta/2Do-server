@@ -1,0 +1,6 @@
+<?php
+    $ip = "<INSERT_IP_HERE>";
+    $usuario = "<USERNAME_HERE>";
+    $senha = "<PASSWORD_HERE>";
+    $banco = "<DATABASE_NAME>";
+?>
